@@ -285,3 +285,11 @@ button:active {
     color: #fb6327;
     font-weight: 500;
 }
+
+.nav-item a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    color: inherit;
+}
